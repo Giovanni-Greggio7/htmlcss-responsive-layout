@@ -71,7 +71,7 @@
     .presentation img {
         max-width: 300px;
         display: block;
-        margin: 0 auto;
+        margin-right: 1%;
         margin-bottom: 15px;
         box-shadow: 0 5px 10px rgb(45 34 60 / 12%);
         float: left;
@@ -157,7 +157,7 @@
     .presentation img {
         max-width: 300px;
         display: block;
-        margin: 0 auto;
+        margin-right: 1%;
         margin-bottom: 15px;
         box-shadow: 0 5px 10px rgb(45 34 60 / 12%);
         float: left;
@@ -194,7 +194,7 @@
     .presentation img {
         max-width: 300px;
         display: block;
-        margin: 0 auto;
+        margin-right: 1%;
         margin-bottom: 15px;
         box-shadow: 0 5px 10px rgb(45 34 60 / 12%);
         float: left;
